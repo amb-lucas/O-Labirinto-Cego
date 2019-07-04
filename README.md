@@ -15,7 +15,7 @@ This game was graded 100% and it has been presented as one of the samples in the
 
 # Instructions
 
-First, you need to install QEMU and NASM on your computer.
+First, you need to install [QEMU] and [NASM] on your computer.
 
 (Links to be added soon.)
 
@@ -23,4 +23,6 @@ Afterwards, open the terminal on the game folder and run the following command:
 
 make all
 
-Then your emulator will pop-up a loading screen (that's actually just text, it doesn't load anything) and the game will follow right after.
+Then your emulator will show up with a loading screen and the game will follow right after.
+
+(It doesn't really load anything, they just made us put the text there)
