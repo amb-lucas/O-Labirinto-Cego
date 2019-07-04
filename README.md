@@ -27,4 +27,4 @@ make all
 
 Then your emulator will show up with a loading screen and the game will follow right after.
 
-(It doesn't really load anything, they just made us put the text there)
+(It doesn't really load anything, we just put the text there)
