@@ -13,7 +13,7 @@ Otherwise, you're taken back to the start of the level.
 
 This game was graded 100% and it has been presented as one of the samples in the presentation of the project.
 
-# Instructions
+## Instructions
 
 First, you need to install _QEMU_ and _NASM_ on your computer.
 
