@@ -21,9 +21,9 @@ First, you need to install _QEMU_ and _NASM_ on your computer.
 
 Afterwards, open the terminal on the game folder and run the following command:
 
-'''
+```
 make all
-'''
+```
 
 Then your emulator will show up with a loading screen and the game will follow right after.
 
