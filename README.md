@@ -27,4 +27,5 @@ make all
 ```
 
 Your emulator will show up with a loading screen and the game will follow right after.
+
 (It doesn't really load anything, we just put the text there cause we were told to)
