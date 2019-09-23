@@ -20,7 +20,7 @@ This game was graded 100% and it has been presented as one of the samples in the
 
 ## Instructions to run the game
 
-Run the following command with the terminal on the folder:
+Run the following command with the terminal on the game folder:
 
 ```
 make all
